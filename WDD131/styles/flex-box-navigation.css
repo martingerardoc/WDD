@@ -1,0 +1,33 @@
+body{
+    font-family: "sansita", sans-serif;
+
+}
+
+nav{
+    background-color: #1c95e6;
+}
+
+nav, ul{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 900px;
+    margin: 0 auto;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav, a {
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 1ren  ;
+    text-decoration: none;
+}
+ p{
+    margin: 1rem;
+    border: 1px solid rgb(0 0 0 / 10%);
+    padding: 1rem;
+    background-color: #bed;
+    max-width: 400px;
+ }

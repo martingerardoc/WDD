@@ -1,0 +1,16 @@
+@media screen and (min-width: 600px)
+{
+    
+    header, main,section{
+        background-color: lightcoral;
+        color: black;
+    }
+    main{
+        grid-template-columns: 1fr 1fr;
+    }
+    section{
+        background-color: aquamarine;
+    }
+  
+    
+}
